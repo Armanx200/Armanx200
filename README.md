@@ -7,15 +7,12 @@
 
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/Armanx200/Armanx200/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
-> A passionate Self-taught Front-end developer
-> Currently learning mathematics
+- A passionate Self-taught Front-end developer
+- Currently learning mathematics
 
 <br><br>
 
