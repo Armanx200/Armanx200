@@ -7,6 +7,8 @@
 
 ## <picture><img src = "https://github.com/Armanx200/Armanx200/blob/main/about_me.gif" width = 50px></picture> **About me**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+
 <br>
 
 - A passionate Self-taught developer
