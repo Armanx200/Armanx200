@@ -3,6 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+<br>
+
 ## <picture><img src = "https://github.com/Armanx200/Armanx200/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <br>
