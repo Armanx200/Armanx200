@@ -1,10 +1,19 @@
 <h1 align="center"><b>Hi , I'm Arman Kianian</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div align="center">
+	
+[![Linkedin Badge](https://img.shields.io/badge/-ArmanKianian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armankianian/)](https://www.linkedin.com/in/armankianian/)
+[![Website Badge](https://img.shields.io/badge/-Armanx200.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/Armanx200/Armanx200)](https://github.com/Armanx200/Armanx200)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Armanx200" alt="visitor badge"/>
+[![Instagram Badge](https://img.shields.io/badge/-@Kianianarman-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kianianarman)](https://www.instagram.com/kianianarman)
+[![Gmail Badge](https://img.shields.io/badge/-kianianarman1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kianianarman1@gmail.com)](mailto:kianianarman1@gmail.com)
 
+
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
 
 <details align="middle">
 <summary>More...</summary>
