@@ -29,7 +29,7 @@ Currently learning mathematics
 <br>
 Interested in video games
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Real.gif">
 </details>
 
 <br>
@@ -65,7 +65,7 @@ Interested in video games
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Real.gif">
 </details>
 
 <details align="middle">
@@ -98,4 +98,4 @@ Interested in video games
 
 <br>
 </detail>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Real.gif">
