@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Arman Kianian</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Arman Kianian</b><img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Hello.gif" width="35"></h1>
 
 <div align="center">
 	
@@ -15,12 +15,12 @@
 </p>
 
 <details align="middle">
-<summary><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>More</b></summary>
+<summary><img src="https://github.com/Armanx200/Armanx200/blob/main/assets/More.gif" width ="25"> <b>More</b></summary>
 
 
 <br>
 <details align="middle">
-<summary><picture><img src = "https://github.com/Armanx200/Armanx200/blob/main/about_me.gif" width = 50px></picture <b>About me</b> </summary>
+<summary><picture><img src = "https://github.com/Armanx200/Armanx200/blob/main/assets/About_Me.gif" width = 50px></picture <b>About me</b> </summary>
 <br>
 
 A passionate Self-taught developer
@@ -34,7 +34,7 @@ Interested in video games
 
 <br>
 <details align="middle">
-<summary> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> </summary>
+<summary> <img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Skills.gif" width ="25"><b> Skills</b> </summary>
 
 <br>
 
@@ -69,7 +69,7 @@ Interested in video games
 </details>
 
 <details align="middle">
-<summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </summary>
+<summary> <img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Github-Stats.gif" width="35"><b> Github Stats </b> </summary>
 <br>
 
 <div align="center">
@@ -84,7 +84,7 @@ Interested in video games
 </details>
 
 <details align="middle">
-<summary> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="35"><b> Let's Connect..!</b> </summary>
+<summary> <img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Connect.gif" width ="35"><b> Let's Connect..!</b> </summary>
 <br>
 <div align='midlle'>
 <a href="https://www.linkedin.com/in/armankianian/" target="_blank">
