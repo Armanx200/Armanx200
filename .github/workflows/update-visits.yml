@@ -34,3 +34,6 @@ jobs:
           git add visits.txt README.md
           git commit -m 'Update visits count'
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
