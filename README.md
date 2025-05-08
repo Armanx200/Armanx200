@@ -4,7 +4,7 @@
 	
 [![Linkedin Badge](https://img.shields.io/badge/-ArmanKianian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armankianian/)](https://www.linkedin.com/in/armankianian/)
 [![Website Badge](https://img.shields.io/badge/-Armanx200-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/Armanx200/Armanx200)](https://armanx200.github.io/)
-![Visits](https://img.shields.io/badge/Visits-9250-blue)
+![Visits](https://img.shields.io/badge/Visits-9251-blue)
 [![Instagram Badge](https://img.shields.io/badge/-@Kianianarman-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kianianarman)](https://www.instagram.com/kianianarman)
 [![Gmail Badge](https://img.shields.io/badge/-kianianarman1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kianianarman1@gmail.com)](mailto:kianianarman1@gmail.com)
 
